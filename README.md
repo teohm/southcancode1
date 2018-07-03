@@ -5,3 +5,8 @@ Our first SouthCanCode tuition repo!
 
 Learn how to use pull request
 
+
+## Squash and Merge
+
+Test asfaf
+ asfdasdf
