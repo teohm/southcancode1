@@ -13,7 +13,7 @@ Test asfaf
 
 ## Clone Repo
 
-Test 123
-Line 2
-Line 3
-Line 4
+* Test 123
+* Line 2
+* Line 3
+* Line 4
