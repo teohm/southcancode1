@@ -1,5 +1,7 @@
 ## southcancode1
 Our first SouthCanCode tuition repo!
 
-Hello World!
-asf;asdkfasdf
+### Pull Request
+
+Learn how to use pull request
+
